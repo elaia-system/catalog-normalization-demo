@@ -1,0 +1,6 @@
+row_id,sku,reason_code,field,observed_value
+1,TS-001,DUPLICATE_SKU_AMBIGUOUS,sku,TS-001
+2,TS-001,DUPLICATE_SKU_AMBIGUOUS,sku,TS-001
+4,XX-003,MISSING_REQUIRED,title,
+4,XX-003,UNKNOWN_VENDOR,vendor,Unknown
+5,TS-004,INVALID_PRICE,price,N/A

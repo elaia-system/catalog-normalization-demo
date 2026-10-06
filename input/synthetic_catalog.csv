@@ -1,0 +1,6 @@
+sku,title,price,vendor,product_type,option1_name,option1_value
+TS-001,Blue T Shirt,"19,99",Acme,shirts,Size,M
+TS-001,Blue T Shirt,19.99,ACME,Shirts,Size,L
+MG-002,Coffee Mug,$12.50,Acme,Mugs,,
+XX-003,,15.00,Unknown,Accessories,Color,Red
+TS-004,Green Shirt,N/A,Acme,shirts,Size,M
